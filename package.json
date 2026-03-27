@@ -1,0 +1,13 @@
+{
+ "name": "camara-noir",
+ "version": "1.0.0",
+ "description": "Un bot WhatsApp furtif",
+ "main": "index.js",
+ "scripts": {
+ "start": "node index.js"
+ },
+ "dependencies": {
+ "@adiwajshing/baileys": "^4.0.0",
+ "dotenv": "^16.0.0"
+ }
+}
